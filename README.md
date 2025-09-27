@@ -26,7 +26,7 @@ Tüm teknik anlatım ve detaylar notebook içerisinde **markdown hücreleri** il
 ## Metrikler
 Modelin test setindeki performansı:
 
-- **Test Accuracy:** 94.76%  
+- **Test Accuracy:** 94.44%  
 - Confusion matrix ve classification report ile sınıf bazlı performans incelenmiştir.  
 
 Gözlemler:
@@ -44,12 +44,6 @@ Projede GPU ile model eğitimi gerçekleştirilmiştir ve data augmentation saye
 
 ## Sonuç ve Gelecek Çalışmalar
 Bu proje, göğüs röntgenlerinden TB tespitini otomatikleştirmeyi amaçlamaktadır. Sağlık alanında erken teşhis tüm insanlık için çok önemli bir husustur. Bu tür projeler, hızlı ve doğru tanı koyma konusunda sağlık sektörüne yardımcı olabilir, insan hatasını azaltabilir ve hastaların uygun tedaviye daha hızlı ulaşmasına katkı sağlar. Bu proje, bu alanda yapay zekâ ile fark yaratma motivasyonumu yansıtan bir çalışmadır.
-
-Gelecek çalışmalar için öneriler:
-
-- Gerçek zamanlı veri toplama ve model güncelleme  
-- Daha ileri CNN mimarileri veya transfer learning kullanımı  
-- Kullanıcı arayüzü ile entegre sağlık uygulaması geliştirme  
 
 ---
 
