@@ -50,4 +50,4 @@ Bu proje, göğüs röntgenlerinden TB tespitini otomatikleştirmeyi amaçlamakt
 
 ## Linkler
 - Kaggle veri seti: [Tuberculosis Chest X-ray Dataset](https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset)  
-- Kaggle notebook: [TuberAI CNN ile TB Teşhisi](https://www.kaggle.com/code/ceydaadigzel/tuberai-cnn-ile-t-berk-loz-te-hisi?scriptVersionId=264216713)  
+- [Kaggle notebook: TuberAI CNN ile TB Teşhisi](https://www.kaggle.com/code/ceydaadigzel/tuberai-cnn-ile-t-berk-loz-te-hisi)
