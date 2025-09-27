@@ -39,6 +39,7 @@ Gözlemler:
 
 ## Ekler
 Projede GPU ile model eğitimi gerçekleştirilmiştir ve data augmentation sayesinde sınıf dengesizliği problemleri minimize edilmiştir.  
+(Projenin son hyperparametre tuning kısmında yanlışlıkla bir kod bloğunu silip projeyi indirmişim lütfen kaggledan tekrar kontrol edin)
 
 ---
 
